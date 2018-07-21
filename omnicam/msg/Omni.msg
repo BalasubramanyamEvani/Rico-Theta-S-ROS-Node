@@ -1,0 +1,11 @@
+uint8 len_pol
+float32[] pols
+uint8 len_invpol
+float32[] invpols
+float32 cx
+float32 cy
+float32 c
+float32 d
+float32 e
+uint16 height
+uint16 width
