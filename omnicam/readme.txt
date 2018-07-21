@@ -1,4 +1,4 @@
-1) Put calib results obtained from OcamCalib in Results_OcamCalib named as
+1) Put calib results obtained from OcamCalib under Results_OcamCalib folder in the same dir and name it as
 calib_results_left.txt and calib_results_right.txt for both dual fish eye images.
 
 2) Launch file in omni_cam_launch.
